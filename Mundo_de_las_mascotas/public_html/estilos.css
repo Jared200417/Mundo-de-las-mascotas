@@ -1,0 +1,58 @@
+        body{
+    width: 900px;
+    margin: auto;
+    background-image: url("https://th.bing.com/th/id/OIP.aFLsapfpQ3vU1MzOaVvtcwHaEo?pid=ImgDet&rs=1");
+    background-size: 100%;
+    border: none; width: 700px;
+        }
+        nav li{
+            display: inline-block;
+            padding: 5px;
+        }  
+        p{color: white;}
+        h2 {color: white; text-align: center;} 
+        h1 {color: white; background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1810/Colorful_Light_Gradient_Dark_Background_1366x768.jpg)}
+        
+        .menu{
+            font-size: x-large;
+            background-image:url(https://i.pinimg.com/originals/93/15/d0/9315d0d3b62212d019c5d8c2813c0832.jpg);
+         
+             }
+        .menu li a { color: brown;
+                       padding: 20px;
+                       display: block;
+        }  
+         .menu li a:hover { background: darkgrey}
+
+b{color: aqua;}
+u{color:red; font-size: 35px;}
+h3{font-size: 30px; color: white}
+i{color: red; font-size: 36px}
+h4{font-size: 30px;color: white}
+em{color:greenyellow; font-size: 25px} 
+strong{color:greenyellow; font-size: 25px}
+h5{color: yellow; font-size: 40px}
+.btn-whatsapp {
+        display:block;
+        width:70px;
+        height:70px;
+        position: fixed;
+        right:20px;
+        bottom:20px;
+        border-radius:50%;
+        line-height:80px;
+        text-align:center;
+        z-index:999;
+}
+a{color: deeppink;}
+li {color: white}
+dt{color: gold; font-size: 29px}
+dd {color: blanchedalmond}
+caption {color: white; font-size: 40px}
+th{color: chartreuse ;font-size: 25px; }
+td{color: black;font-family: cambria ;font-size: 20px; background: papayawhip}
+label{color:white}
+form{border:5px dotted darkorchid}
+video{border: 5px double lawngreen}
+audio{border: 5px double blue}
+img {border: 5px double lawngreen}

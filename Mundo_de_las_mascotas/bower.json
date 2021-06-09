@@ -1,0 +1,13 @@
+{
+    "name": "Lugares_Turisticos_De_Mexico",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Lugares_Turisticos_De_Mexico",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Sammy Guergachi <sguergachi at gmail.com>",
+    "contributors": [],
+    "dependencies": {}
+}
